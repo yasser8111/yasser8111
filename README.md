@@ -22,9 +22,6 @@ Frontend Developer & UI/UX Designer crafting modern web experiences.
   <a href="https://colorlab811.vercel.app/">
     <img src="./preview-2.png" width="45%">
   </a>
-</p>
-
-<p align="center">
   <a href="https://ysrgpt.vercel.app/">
     <img src="./preview-3.png" width="45%">
   </a>

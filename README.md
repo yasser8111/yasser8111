@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Yasser 👋</h1>
 
-<!--
-**yasser8111/yasser8111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Frontend Developer | UI/UX Designer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 I build modern web applications
+- 🎨 I care about clean UI & great UX
+- ⚡ Focused on performance & simplicity
+- 🧠 Always learning & improving
+
+---
+
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- React & Tailwind CSS
+- Firebase
+- Git & GitHub
+
+---
+
+## 🔥 Featured Projects
+
+### 🟣 YasserGPT
+AI chat application built with modern UI.
+
+### 🟡 ColorLab
+Generate beautiful color palettes for web projects.
+
+### 🔵 GridX
+Learn programming through code-based movement game.
+
+---
+
+## 📫 Contact Me
+- Email: your@email.com
+- Portfolio: (add later)

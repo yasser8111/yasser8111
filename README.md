@@ -36,5 +36,5 @@ Learn programming through code-based movement game.
 ---
 
 ## 📫 Contact Me
-- Email: your@email.com
-- Portfolio: (add later)
+- Email: yasserxd653@gemail.com
+/* - Portfolio: (add later) */

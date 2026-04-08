@@ -7,41 +7,40 @@ These are some of my projects <br/>
 Feel free to explore them
 </p>
 
+> [!NOTE]
+> Click any project to explore it live
+
 <div align="center">
 
 <a href="https://github.com/yasser8111/ControlTab-extension">
-  <img src="./preview-5.png" width="80%" />
+  <img src="./preview-5.png" width="100%" />
 </a>
 
 <br/><br/>
 
-<a href="https://airtiqa.vercel.app">
-  <img src="./preview-4.png" width="80%" />
+<a href="https://github.com/yasser8111/GridX">
+  <img src="./preview-4.png" width="100%" />
 </a>
 
 <br/><br/>
 
-<a href="https://colorlab811.vercel.app/">
-  <img src="./preview-3.png" width="80%" />
+<a href="https://github.com/yasser8111/YasserGPT">
+  <img src="./preview-3.png" width="100%" />
 </a>
 
 <br/><br/>
 
-<a href="https://ysrgpt.vercel.app/">
-  <img src="./preview-2.png" width="80%" />
+<a href="https://github.com/yasser8111/colorlab">
+  <img src="./preview-2.png" width="100%" />
 </a>
 
 <br/><br/>
 
-<a href="https://gridx811.vercel.app/">
-  <img src="./preview-1.png" width="80%" />
+<a href="https://github.com/yasser8111/Airtqa">
+  <img src="./preview-1.png" width="100%" />
 </a>
 
 </div>
-
-<p align="center">
-Click any project to explore it live 🚀
-</p>
 
 ## 📫 Contact Me
 

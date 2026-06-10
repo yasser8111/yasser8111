@@ -12,33 +12,41 @@ Feel free to explore them
 
 <div align="center">
 
-<a href="https://github.com/yasser8111/ControlTab-extension">
-  <img src="./preview-5.png" width="100%" />
-</a>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/yasser8111/ControlTab-extension">
+        <img src="./preview-5.png" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/yasser8111/GridX">
+        <img src="./preview-4.png" width="100%" />
+      </a>
+    </td>
+  </tr>
 
-<br/><br/>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/yasser8111/YasserGPT">
+        <img src="./preview-3.png" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/yasser8111/colorlab">
+        <img src="./preview-2.png" width="100%" />
+      </a>
+    </td>
+  </tr>
 
-<a href="https://github.com/yasser8111/GridX">
-  <img src="./preview-4.png" width="100%" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/yasser8111/YasserGPT">
-  <img src="./preview-3.png" width="100%" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/yasser8111/colorlab">
-  <img src="./preview-2.png" width="100%" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/yasser8111/Airtqa">
-  <img src="./preview-1.png" width="100%" />
-</a>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/yasser8111/Airtqa">
+        <img src="./preview-1.png" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 

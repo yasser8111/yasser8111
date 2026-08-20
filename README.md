@@ -53,5 +53,6 @@ Feel free to explore them
 ## 📫 Contact Me
 
 - Email: [yasserxd653@gmail.com](mailto:yasserxd653@gmail.com)
-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-peach.vercel.app/?user=yasser8111&theme=dark" alt="GitHub Streak" /></a>
+- [![GitHub Streak](https://streak-stats.demolab.com?user=yasser8111&theme=dark&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
+
 

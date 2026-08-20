@@ -53,6 +53,7 @@ Feel free to explore them
 ## 📫 Contact Me
 
 - Email: [yasserxd653@gmail.com](mailto:yasserxd653@gmail.com)
-- [![GitHub Streak](https://streak-stats.demolab.com?user=yasser8111&theme=dark&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yasser8111&theme=dark&hide_border=true&border_radius=5&short_numbers=true&stroke=002CEB&ring=002CEB&currStreakLabel=002CEB&fire=002CEB&background=00000008)](https://git.io/streak-stats)
 
 

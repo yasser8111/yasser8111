@@ -56,4 +56,6 @@ Feel free to explore them
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yasser8111&theme=dark&hide_border=true&border_radius=5&short_numbers=true&stroke=002CEB&ring=002CEB&currStreakLabel=002CEB&fire=002CEB&background=00000008" alt="GitHub Streak" /></a>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com" alt="GitHub Streak" /></a>
+
 
